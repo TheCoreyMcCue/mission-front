@@ -6,32 +6,32 @@ const QuickLinks = () => {
       <h1>Quick Links</h1>
       <div className="p-4 grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4">
         <Link href="/">
-          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-20 mx-1 py-2 px-4 rounded">
+          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-40 mx-1 py-2 px-4 rounded">
             Link One
           </button>
         </Link>
         <Link href="/">
-          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-20 mx-1 py-2 px-4 rounded">
+          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-40 mx-1 py-2 px-4 rounded">
             Link Two
           </button>
         </Link>
         <Link href="/">
-          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-20 mx-1 py-2 px-4 rounded">
+          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-40 mx-1 py-2 px-4 rounded">
             Link Three
           </button>
         </Link>
         <Link href="/">
-          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-20 mx-1 py-2 px-4 rounded">
+          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-40 mx-1 py-2 px-4 rounded">
             Link Four
           </button>
         </Link>
         <Link href="/">
-          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-20 mx-1 py-2 px-4 rounded">
+          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-40 mx-1 py-2 px-4 rounded">
             Link Five
           </button>
         </Link>
         <Link href="/">
-          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-20 mx-1 py-2 px-4 rounded">
+          <button className="bg-gray-400 hover:bg-gray-600 text-white font-bold min-w-40 mx-1 py-2 px-4 rounded">
             Link Six
           </button>
         </Link>
